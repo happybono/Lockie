@@ -1,6 +1,11 @@
 # Lockie for Keyboards
 Lockie for Keyboards is a simple utility to indicate whether a key is on or off, such as Caps Lock, Num Lock and Scroll Lock key. This is specifically useful for keyboards without dedicated indicators.
 
+Lockie for Keyboards is a free and open-source utility released under Microsoft Reciprocal License (Ms-RL) license and the source code is freely available from GitHub.
+
+COPYRIGHT ⓒ 2015 ~ 2018 HAPPYBONO. ALL RIGHTS RESERVED.
+
+
 # Lockie For Keyboards Software End-User License Agreement
 
 IMPORTANT! READ CAREFULLY: THIS END-USER LICENSE AGREEMENT (“EULA”) IS A LEGAL AGREEMENT BETWEEN USER AND THIS APPLICATION DEVELOPER (“HAPPYBONO”) FOR LOCKIE (“SOFTWARE”). PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE YOU INSTALL HAPPYBONO DEVELOPER'S SOFTWARE. BY CLICKING "AGREE" BUTTON, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE, PLEASE DO NOT INSTALL BY CLICKING "CANCEL" BUTTON.
