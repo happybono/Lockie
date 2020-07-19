@@ -5,6 +5,13 @@ Lockie for Keyboards is a free and open-source utility released under Microsoft 
 
 COPYRIGHT ⓒ 2015 ~ 2018 HAPPYBONO. ALL RIGHTS RESERVED.
 
+<div align="center">
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/happybono/Lockie"> 
+<img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/happybono/Lockie">
+<img alt="GitHub Repo Languages" src="https://img.shields.io/github/languages/count/happybono/Lockie">
+<img alt="GitHub Top Languages" src="https://img.shields.io/github/languages/top/HappyBono/Lockie">
+</div>
+
 
 # Lockie For Keyboards Software End-User License Agreement
 
