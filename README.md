@@ -3,7 +3,7 @@ Lockie for Keyboards is a simple utility to indicate whether a key is on or off,
 
 Lockie for Keyboards is a free and open-source utility released under Microsoft Reciprocal License (Ms-RL) license and the source code is freely available from GitHub.
 
-COPYRIGHT ⓒ 2015 ~ 2018 HAPPYBONO. ALL RIGHTS RESERVED.
+COPYRIGHT ⓒ 2015 ~ 2021 HAPPYBONO. ALL RIGHTS RESERVED.
 
 <div align="center">
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/happybono/Lockie"> 
