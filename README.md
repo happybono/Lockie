@@ -36,4 +36,4 @@ HappyBono shall provide to end users updates to the Software, if and when such u
 6. TERMINATION
 Without prejudice to any other rights, HappyBono may terminate this license if you fail to comply with the terms and conditions of this EULA. Upon the termination of this License, you must immediately destroy all copies of the Software.
 
-COPYRIGHT ⓒ 2015 HAPPYBONO. ALL RIGHTS RESERVED.
+COPYRIGHT ⓒ 2015 - 2025 HAPPYBONO. ALL RIGHTS RESERVED.
